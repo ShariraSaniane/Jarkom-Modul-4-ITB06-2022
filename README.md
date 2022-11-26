@@ -56,21 +56,21 @@ Setelah melakukan pembagian subnet tersebut, kami mencoba untuk membuat tabel ke
 
 Berikut adalah langkah langkah yang dilakukan dalam mengkombinasikan subnet untuk CIDR:
 
-1.![Image cidr_1](images/cidr1.png)
+1.![Image cidr_1](images/cidr1.PNG)
 
-2.![Image cidr_2](images/cidr2.png)
+2.![Image cidr_2](images/cidr2.PNG)
 
-3.![Image cidr_3](images/cidr3.png)
+3.![Image cidr_3](images/cidr3.PNG)
 
-4.![Image cidr_4](images/cidr5.png)
+4.![Image cidr_4](images/cidr5.PNG)
 
-5.![Image cidr_5](images/cidr6.png)
+5.![Image cidr_5](images/cidr6.PNG)
 
 6.![Image cidr_6](images/Capture.PNG)
 
-7.![Image cidr_5](images/cidr7.png)
+7.![Image cidr_5](images/cidr7.PNG)
 
-8.![Image cidr_5](images/cidr8.png)
+8.![Image cidr_5](images/cidr8.PNG)
 
 Berikut adalah tabel kesimpulan untuk kombinasi-kombinasi CIDR yang telah dilakukan.
 
